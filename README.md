@@ -7,3 +7,6 @@ Currently solved problems:
 
 -Even Fibonacci numbers
 
+-Largest prime factor
+
+-Largest palindrome product
